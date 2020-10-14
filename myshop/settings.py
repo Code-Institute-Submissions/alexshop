@@ -19,8 +19,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'xsltcmtkdj86o1c=rjq5hmny-tdev_eyyq+bokoyc=sh*z95m='
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -128,10 +127,6 @@ USE_L10N = True
 
 USE_TZ = True
 
-
-#stripe
-STRIPE_PUBLISHABLE_KEY = 'pk_test_qDHoLozzi8RUL4o5tJCP1aju00tR7qcGii'
-STRIPE_SECRET_KEY = 'sk_test_jgnQTGiD7cCwIFec2EEzDsJA00z1706mLX'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
