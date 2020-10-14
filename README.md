@@ -45,6 +45,15 @@ Device Testing
 Samsung  galaxy s10+
 Samsnusg galaxy s8
 
+Frameworks, Libraries & Programs Used GitHub: GitHub is used to store the projects code after being pushed from Git. Testing The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+Further Testing The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers. The website was viewed on a variety of devices such as Desktop, Laptop, Samsung galaxy S10+ A large amount of testing was done to ensure that all pages were linking correctly.
+
+Deployment
+
+Heroku The project was deployed to Heroku : https://alexshopsoulis.herokuapp.com/
+
+Media All Images were found on internet.
 
 Acknowledgements
 CodeInstitute supoort
